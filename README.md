@@ -17,3 +17,18 @@ FORMAT: Vertical portrait, 2:3 aspect ratio (1024x1536). Hero centered slightly 
 STYLE: 3D rendered, Octane / Unreal Engine 5 quality, ultra-detailed, vibrant saturated colors. Marvel-style hero poster aesthetic. The face MUST blend seamlessly with the 3D body — one unified character render.
 
 NEGATIVE: no text, no watermarks, no extra people, no distorted hands, no photographic face on 3D body.
+
+
+
+Subtle cinematic animation, 5 seconds, seamless loop:
+
+- The long cape flows and ripples in slow-motion wind with realistic fabric physics
+- Small glowing tech-logo particles (React, Django, AWS, Docker) detach from the cape edge and float upward like embers, fading as they rise
+- Fire around the Python logo flickers and swirls continuously, sparks rising
+- Neon lights across the Git City skyline pulse gently — branch-line light streaks slowly travel along buildings
+- Soft volumetric light rays behind the hero slowly shift
+- Hero stays mostly still — only micro chest breathing, cape and hair react to wind
+- Camera: completely static, no zoom, no pan
+- Style: cinematic, smooth, 24fps feel
+
+Do NOT change the character's face, pose, costume, or composition. Only animate cape, fire, particles, neon glow, and background lights.
