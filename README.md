@@ -1,94 +1,19 @@
-## 🚀 Tech Stack
+Take the facial reference from the uploaded image(s) and create a hyper-detailed 3D stylized portrait poster. The face must be fully rendered in 3D (Pixar / Unreal Engine 5 style), NOT a real photo pasted onto a 3D body. Preserve identity — same jawline, eyes, hair shape, recognizably the same person — but re-rendered as a polished 3D character with stylized skin shading, sculpted hair, and cinematic rim lighting.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,java,spring,php,laravel,dotnet,python,flutter,dart,kotlin,androidstudio,mysql,mongodb,postgres,firebase,aws,docker,kubernetes,git,github,linux,bash,vscode,figma,ps,ai,xd,postman&perline=9" />
-</p>
+SUBJECT: A muscular male superhero with the stylized 3D face, sharp jawline, confident heroic expression. Pixar-meets-ArtStation render style, semi-realistic, highly polished.
 
----
+POSE: Standing powerfully on a tall skyscraper rooftop. Right arm raised high, floating above his open palm is the official Python logo (blue and yellow snakes) — glowing intensely, engulfed in swirling orange-red fire and energy sparks.
 
-## ⚡ Tools & Platforms
+COSTUME: Sleek modern superhero suit in dark navy and electric blue, subtle circuit-board patterns glowing faintly across the chest. Long flowing cape behind him catches the wind.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cloudflare,netlify,vercel,nginx,maven,gradle,npm,yarn,opencv,selenium,tensorflow,pytorch,redis&perline=7" />
-</p>
+CAPE EFFECT: From the trailing edge, small glowing particles and mini tech-logos break off — React (cyan), Django (green), AWS (orange), Docker (blue), FastAPI (teal), JavaScript (yellow) — drifting upward like fireflies.
 
----
+BACKGROUND — "GIT CITY": Futuristic neon cyberpunk metropolis at blue hour. Skyscrapers stylized as Git repository visualizations — branching commit-tree buildings, glowing branch lines connecting rooftops, floating holographic commit nodes, terminal-window billboards showing green code, GitHub Octocat glowing on the largest tower.
 
-## 📊 GitHub Stats
+LIGHTING: Dramatic cinematic rim lighting (sunset orange + electric blue), volumetric god rays, lens flare on the Python logo flame.
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
+FORMAT: Vertical portrait, 2:3 aspect ratio (1024x1536). Hero centered slightly lower-third, clean negative space at top for a name banner.
 
----
+STYLE: 3D rendered, Octane / Unreal Engine 5 quality, ultra-detailed, vibrant saturated colors. Marvel-style hero poster aesthetic. The face MUST blend seamlessly with the 3D body — one unified character render.
 
-## 🌟 About TECHSASI
-
-TECHSASI is a Software Development Company and IT Training Institute dedicated to empowering students, freelancers, startups, and businesses through cutting-edge technology and practical learning.
-
----
-
-## 💼 Our Services
-
-🌐 Website Development
-
-📱 Mobile App Development
-
-🎨 UI/UX Design
-
-🤖 AI Solutions
-
-☁️ Cloud & AWS
-
-⚙️ DevOps
-
-🛒 E-Commerce Development
-
-📈 SEO & Digital Marketing
-
----
-
-## 🎓 Training Programs
-
-✅ AI Full Stack Development
-
-✅ Java Full Stack
-
-✅ MERN Stack
-
-✅ Flutter
-
-✅ React Native
-
-✅ UI/UX Design
-
-✅ AWS Cloud
-
-✅ Python
-
-✅ PHP Laravel
-
-✅ .NET Development
-
----
-
-## 🛠 Tech Stack
-
-HTML • CSS • JavaScript • React • Spring Boot • Java • PHP • Flutter • MySQL • AWS • Docker • Git • GitHub
-
----
-
-## 📫 Connect With Us
-
-🌐 https://techsasi.com
-
-📧 info@techsasi.com
-
-📍 Kolathur, Mettur, Salem, Tamil Nadu
-
-⭐ "Building Future Tech Professionals"
-📧 Email: info@techsasi.com
+NEGATIVE: no text, no watermarks, no extra people, no distorted hands, no photographic face on 3D body.
