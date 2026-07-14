@@ -1,15 +1,27 @@
-# <h1 align="center">🚀 TECHSASI</h1>
-
-<h3 align="center">Learn • Build • Innovate</h3>
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=FF6B00&center=true&vCenter=true&width=700&lines=Welcome+to+TECHSASI;Software+Development+Company;IT+Training+Institute;AI+%7C+Full+Stack+%7C+Cloud+%7C+Mobile+Apps" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,java,spring,php,laravel,dotnet,python,flutter,dart,kotlin,androidstudio,mysql,mongodb,postgres,firebase,aws,docker,kubernetes,git,github,linux,bash,vscode,figma,ps,ai,xd,postman&perline=9" />
 </p>
 
+---
+
+## ⚡ Tools & Platforms
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Website-techsasi.com-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Training-Live%20Online-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Projects-Professional-success?style=for-the-badge">
+<img src="https://skillicons.dev/icons?i=cloudflare,netlify,vercel,nginx,maven,gradle,npm,yarn,opencv,selenium,tensorflow,pytorch,redis&perline=7" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
